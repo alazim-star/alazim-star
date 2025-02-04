@@ -1,3 +1,63 @@
+<!-- Contributions and Streak Section -->
+<div align="center">
+  <h2>📊 GitHub Contributions</h2>
+  <table>
+    <tr>
+      <!-- Total Contributions -->
+      <td align="center">
+        <h3>2,681</h3>
+        <p>Total Contributions</p>
+        <p>Mar 13, 2015 - Present</p>
+      </td>
+      <!-- Current Streak -->
+      <td align="center">
+        <h3>1,052</h3>
+        <p>Current Streak</p>
+        <p>Mar 21, 2022 - Feb 4</p>
+      </td>
+      <!-- Longest Streak -->
+      <td align="center">
+        <h3>1,052</h3>
+        <p>Longest Streak</p>
+        <p>Mar 21, 2022 - Feb 4</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- GitHub Stats Section -->
+<div align="center">
+  <h2>📈 GitHub Stats</h2>
+  <table>
+    <tr>
+      <!-- Stars -->
+      <td align="center">
+        <h3>100</h3>
+        <p>Total Stars Earned</p>
+      </td>
+      <!-- Commits -->
+      <td align="center">
+        <h3>4.7k</h3>
+        <p>Total Commits</p>
+      </td>
+      <!-- PRs -->
+      <td align="center">
+        <h3>85</h3>
+        <p>Total PRs</p>
+      </td>
+      <!-- Issues -->
+      <td align="center">
+        <h3>59</h3>
+        <p>Total Issues</p>
+      </td>
+      <!-- Contributions -->
+      <td align="center">
+        <h3>10</h3>
+        <p>Contributed (Last Year)</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://i.ibb.co.com/TD3bYK2J/Black-Modern-Vlogger-You-Tube-Banner.png" alt="GitHub Banner" />
