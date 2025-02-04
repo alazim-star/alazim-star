@@ -1,3 +1,60 @@
+<!-- Centered Profile Image -->
+<div align="center">
+  <img src="https://your-image-url.jpg" alt="Profile Picture" style="border-radius: 50%; width: 150px; height: 150px;" />
+  <h1>NAZMUL HUSSAIN</h1>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </p>
+</div>
+
+<!-- Left and Right Alignment -->
+<div style="display: flex; justify-content: space-between; padding: 20px;">
+  <!-- Left Section -->
+  <div style="flex: 1; text-align: left;">
+    <h2>About Me</h2>
+    <p>👋 Hey! I am Nazmul Hussain, a passionate Frontend Developer.</p>
+    <ul>
+      <li>🌱 Currently learning PostgreSQL</li>
+      <li>💡 Goal: Master Web Development</li>
+      <li>🎮 Fun Fact: I love video games</li>
+    </ul>
+  </div>
+
+  <!-- Right Section -->
+  <div style="flex: 1; text-align: right;">
+    <h2>Reach Me</h2>
+    <p>
+      <a href="https://linkedin.com/in/your-profile" target="_blank">LinkedIn</a><br />
+      <a href="https://twitter.com/your-profile" target="_blank">Twitter</a><br />
+      <a href="mailto:your-email@gmail.com">Email</a>
+    </p>
+  </div>
+</div>
+
+<!-- Divider -->
+<hr />
+
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://i.ibb.co.com/TD3bYK2J/Black-Modern-Vlogger-You-Tube-Banner.png" alt="GitHub Banner" />
