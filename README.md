@@ -1,12 +1,3 @@
-## 🎉 Achievements
-
-<img src="https://github.com/alazim-star/alazim-star/assets/achievements.png" alt="Achievements" width="300" />
-
-## ✨ Highlights
-
-- 🛠️ Developer Program Member
-- 🔥 Active Contributor
-
 
 
 
