@@ -65,7 +65,7 @@ Here are a few things about me:
 
 
 
-### 🌐 Languages & Activity Graph:
+### 🌐 Languages & Activity Graph :
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Most Used Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical" alt="GitHub Activity Graph" />
