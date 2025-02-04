@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co.com/TD3bYK2J/Black-Modern-Vlogger-You-Tube-Banner.png" alt="GitHub Banner" />
 </p>
 
-### 👋 Hi there, I'm [Your Name]!
+### 👋 Hi there, I'm Abdullah Al Azim!
 
 I am a Web Developer with expertise in **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **Tailwind CSS**.  
 I build seamless web applications with a keen eye for design and functionality.  
