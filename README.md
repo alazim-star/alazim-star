@@ -20,7 +20,8 @@ Here are a few things about me:
 
 
 <div align="center">
-  <p>### 🛠️ Technologies I Know:</p>
+  <p><strong>## 🛠️ Technologies I Know:</strong></p>
+
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Logo" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Logo" />
@@ -39,7 +40,7 @@ Here are a few things about me:
 
 
 <div align="center">
-  <p>### 🛠️ Tools I Use:</p>
+  <p><strong>## 🛠️ Tools I Use:</strong></p>
   <p >
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -52,9 +53,9 @@ Here are a few things about me:
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <p>
-    ### 📊 GitHub Stats
+<strong>## 📊 GitHub Stats</strong>
   </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alazim-star&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alazim-star&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alazim-star&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 
@@ -62,10 +63,15 @@ Here are a few things about me:
 
 
 ---
-## 🔥 GitHub Streak  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alazim-star&show_icons=true&theme=radical"/>
+  <p>
+    <strong>## 🔥 GitHub Streak</strong>
+  </p>
+  <img src="https://streak-stats.demolab.com/?user=alazim-star" alt="GitHub Streak">
 </div>
+
+ 
 
 
 
