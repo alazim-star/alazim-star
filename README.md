@@ -10,7 +10,7 @@ I am a Web Developer with expertise in **JavaScript**, **TypeScript**, **React.j
 I build seamless web applications with a keen eye for design and functionality.  
 Here are a few things about me:
 - 🌟 Creating bugs since **2024**
-- 📖 Currently learning **PostgreSQL**
+- 📖 Currently learning **I am exploring Next.js**
 - 🎯 Goals: Becoming a **master developer**
 - 🎮 Fun fact: I love **video games**
 
