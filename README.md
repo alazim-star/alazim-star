@@ -64,7 +64,7 @@ Here are a few things about me:
 ---
 ## 🔥 GitHub Streak  
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=alazim-star" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alazim-star&show_icons=true&theme=radical"/>
 </div>
 
 
