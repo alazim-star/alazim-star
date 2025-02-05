@@ -21,7 +21,7 @@ Here are a few things about me:
 
 
 <div align="center">
-  <p><strong>## 🛠️ Technologies I Know:</strong></p>
+  <h2><strong>🛠️ Technologies I Know:</strong></h2>
 
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Logo" />
@@ -41,7 +41,7 @@ Here are a few things about me:
 
 
 <div align="center">
-  <p><strong>## 🛠️ Tools I Use:</strong></p>
+  <h2><strong>🛠️ Tools I Use:</strong></h2>
   <p >
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -53,9 +53,9 @@ Here are a few things about me:
 
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <p>
-<strong>## 📊 GitHub Stats</strong>
-  </p>
+  <h2>
+<strong>📊 GitHub Stats</strong>
+  </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=alazim-star&show_icons=true&theme=react" alt="GitHub Stats" width="48%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alazim-star&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
@@ -75,7 +75,7 @@ Here are a few things about me:
 ---
 
 <div align="center">
-  <p>### 📫 Reach Me Out:</p>
+  <h2>📫 Reach Me Out:</h2>
   <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
