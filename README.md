@@ -67,7 +67,7 @@ Here are a few things about me:
 
 <div align="center">
   <h2>🔥 GitHub Streak</h2>
-  <img src="https://streak-stats.demolab.com/?user=alazim-star&theme=tokyonight&hide_border=false" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=alazim-star" alt="GitHub Streak">
 </div>
 
 
