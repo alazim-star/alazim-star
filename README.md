@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="https://i.ibb.co.com/TD3bYK2J/Black-Modern-Vlogger-You-Tube-Banner.png" alt="GitHub Banner" />
 </p>
@@ -55,7 +54,7 @@ Here are a few things about me:
   <p>
 <strong>## 📊 GitHub Stats</strong>
   </p>
-  <img src="https://github-readme-stats.vercel.app/api?username=alazim-star&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alazim-star&show_icons=true&theme=react" alt="GitHub Stats" width="48%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alazim-star&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 
@@ -68,13 +67,6 @@ Here are a few things about me:
   <h2>🔥 GitHub Streak</h2>
   <img src="https://streak-stats.demolab.com/?user=alazim-star" alt="GitHub Streak">
 </div>
-
-
- ## 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com/?user=alazim-star)
-
-
-
 
 
 ---
